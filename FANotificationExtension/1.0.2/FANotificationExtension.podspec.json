@@ -13,13 +13,13 @@
     "ios": "10.0"
   },
   "ios": {
-    "vendored_frameworks": "FollowAnalytics-SDK-iOS-6.3.6-1.0.2/FANotificationExtension.framework"
+    "vendored_frameworks": "FollowAnalytics-SDK-iOS-6.4.0-1.0.2/FANotificationExtension.framework"
   },
   "frameworks": [
     "FANotificationExtension"
   ],
   "requires_arc": true,
   "source": {
-    "http": "https://s3-eu-west-1.amazonaws.com/fa-sdks/ios/6.3.6-1.0.2/FollowAnalytics-SDK-iOS-6.3.6-1.0.2.zip"
+    "http": "https://s3-eu-west-1.amazonaws.com/fa-sdks/ios/6.4.0-1.0.2/FollowAnalytics-SDK-iOS-6.4.0-1.0.2.zip"
   }
 }
